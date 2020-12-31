@@ -1,0 +1,24 @@
+You may access our system by doing the following steps:
+
+1. How to Setup ERIS Management Information System desktop application:
+Run ERIS MIS Installer setup, and it will automatically create a desktop and a start menu icon.
+
+2. How to Setup XAMPP to run a local server.
+Install and run Apache and MySQL using XAMPP Control Panel.
+
+3. To setup ERIS MIS database
+
+Open your default browser, and go to "http://localhost/phpmyadmin/" 
+
+On the Left Side Navigator, click "New" to create a new database.
+
+Set the database name to "eris_mis" then proceed.
+
+You will now have an "eris_mis" database. Navigate to the"Import" pane, and select "Choose File" then choose"eris_mis_database" from your computer.
+
+4. You may now try to run ERIS MIS app,
+
+using the admin account:
+
+username: 2020-1000
+password: admin
